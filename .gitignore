@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+app.db
+log.txt
+qqq.csv
