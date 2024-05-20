@@ -25,6 +25,7 @@
 
 
 **Backtesting Mean Inversion + Opening Range Breakout/Breakdown (with Backtrader)**
+<br>
 Example: Backtesting on MSFT (Microsoft) minute data over the span of 60 days<br>
 
 Log Messages<br>
