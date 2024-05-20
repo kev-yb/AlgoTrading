@@ -28,7 +28,7 @@
 **Backtesting Mean Inversion + Opening Range Breakout/Breakdown (with Backtrader)**
 Example: Backtesting on MSFT (Microsoft) minute data over the span of 60 days<br>
 
-Log Messages
+Log Messages<br>
 <img width="668" alt="Screenshot 2024-05-19 at 10 01 45 PM" src="https://github.com/kev-yb/AlgoTrading/assets/76458258/ac132d50-a490-4120-98e7-29bc4b0249e0">
 <img width="766" alt="Screenshot 2024-05-19 at 10 02 19 PM" src="https://github.com/kev-yb/AlgoTrading/assets/76458258/93ebfa3c-0f1f-488a-9169-30cc23af0481"><br><br><br>
 
