@@ -6,8 +6,7 @@
 - Time data are converted from UTC values provided by Alpaca Trading API to EST/EDT<br>
 - Stocks are automatically liquidated before the market closes if a position is left opened since this is a day trading application and the consequences of leaving a position open while the market is closed hasn't been investigated yet.<br>
 - Uses SMTP to send email notifications when a trade has been made<br>
-- Uses the Backtrader library to allow users to test (a combination of) strategies over a set of data supplied to Cerebro.<br>
-
+- Uses the Backtrader library to allow users to test (a combination of) strategies over a set of data supplied to Cerebro.<br><br><br>
 
 <u>Note:</u> Python 3.7+ is required to run the application due to tulipy dependencies
 
