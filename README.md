@@ -1,14 +1,14 @@
 # Full Stack Stock Trading Application
 <br>
-<u>Technologies:</u> Python, Alpaca Trading API, FASTAPI, SQLite3, Pandas, NumPy, SciPy<br>
+<ins>Technologies:</ins> Python, Alpaca Trading API, FASTAPI, SQLite3, Pandas, NumPy, SciPy<br>
 - A full stack stock trading application that applies various trading strategies (opening-range-breakout, opening-range-breakdown, mean-inversion) on US stocks <br>
 - Allows filtering of stocks based on their RSI and SMA values to help users shortlist stocks based on their desired trading strategies <br>
 - Time data are converted from UTC values provided by Alpaca Trading API to EST/EDT<br>
 - Stocks are automatically liquidated before the market closes if a position is left opened since this is a day trading application and the consequences of leaving a position open while the market is closed hasn't been investigated yet.<br>
 - Uses SMTP to send email notifications when a trade has been made<br>
-- Uses the Backtrader library to allow users to test (a combination of) strategies over a set of data supplied to Cerebro.<br><br><br>
+- Uses the Backtrader library to allow users to test (a combination of) strategies over a set of data supplied to Cerebro.<br><br>
 
-<u>Note:</u> Python 3.7+ is required to run the application due to tulipy dependencies
+<ins>Note:</ins> Python 3.7+ is required to run the application due to tulipy dependencies <br>
 
 
 **Home Page**
