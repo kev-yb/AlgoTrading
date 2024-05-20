@@ -1,4 +1,4 @@
-# Full stack stock trading application
+# Full Stack Stock Trading Application
 <br>
 <u>Technologies:</u> Python, Alpaca Trading API, FASTAPI, SQLite3, Pandas, NumPy, SciPy<br>
 - A full stack stock trading application that applies various trading strategies (opening-range-breakout, opening-range-breakdown, mean-inversion) on US stocks <br>
